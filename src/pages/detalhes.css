@@ -1,0 +1,30 @@
+#card_detalhes{
+    width: 80%;
+    margin-left: 10%;
+    font-size: 20px;
+}
+
+
+#card_detalhes:hover{
+    transform: scale(1.03);
+    transition: all 1s ease;
+    cursor: pointer;
+    font-size: 20px;
+    color: white;
+    background-color: black;
+
+}
+
+
+#titulo_filme{
+    margin-left:43%;
+    font-size: 50px;   
+    color: black; 
+}
+
+
+#titulo_filme:hover{
+    transform: scale(1.03);
+    transition: all 1s ease;
+    cursor: pointer;
+}

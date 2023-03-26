@@ -1,0 +1,52 @@
+
+#card_component_planos{
+    border-radius: 25px;
+    margin-bottom: 5%;
+}
+
+.img{
+    border-radius: 25px;
+}
+
+
+#card_component_planos:hover{
+    transform: scale(1.03);
+    transition: all 0.1s ease-in;
+    color: rgb(0, 0, 0);
+    cursor: pointer;
+    background-color: rgb(255, 255, 255);
+    border-color: #FFC107;
+    border-radius: 50px;
+}
+
+
+#detalhes_plano:hover{
+    transform: scale(1.08);
+    transition: all 0.5s ease-in;
+    color: rgb(0, 0, 0);
+    background-color: white;
+    border-radius: 15px;
+}
+
+#img{
+    border-radius:15px;
+}
+
+#comentario{
+    border-radius: 5px;
+    font-family: arial;
+    background-color: rgb(223, 71, 89);
+    color: white;
+}
+
+
+#comentario:hover{
+    border-radius: 5px;
+    font-family: arial;
+    color: rgb(0, 0, 0);
+    background-color: white;
+    border-color: rgb(223, 71, 89);
+}
+
+
+
